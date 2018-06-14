@@ -95,7 +95,7 @@
             "required": true
         },
         {
-            "displayName": "Maven mirror URL (for future use)",
+            "displayName": "Maven mirror URL",
             "description": "Maven mirror to use for S2I builds",
             "name": "MAVEN_MIRROR_URL",
             "value": "",
